@@ -1,6 +1,6 @@
 # Newtons-Cradle
 
-A very nice example of the domino effect. The famus *Newton's cradle* created using-
+A very nice example of the domino effect. The famous *Newton's cradle* created using-
 
 - JavaScript
 - P5.js
